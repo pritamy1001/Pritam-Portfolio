@@ -15,7 +15,10 @@ body {
     padding: 20px;
      
 }
-
+#education{
+    display: flex;
+    justify-content: space-between;
+}
 /*HEADER*/
 header {
     
