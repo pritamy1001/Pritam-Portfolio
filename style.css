@@ -34,7 +34,7 @@ header {
     
 }
 #element{
-    color: #030303;
+    color: rgb(160, 102, 215);
     font-size: xx-large;
 
 }
@@ -47,7 +47,7 @@ header p {
     margin-top: 10px;
 }
 .Pritam{
-    color: #030303;
+    color: rgb(160, 102, 215);
 }
 /*NAV*/
 nav {
